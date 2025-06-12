@@ -1,0 +1,418 @@
+[
+    {
+        "courseId": "corso1",
+        "url": "/video-stream/1200",
+        "image": "/images/2.jpg",
+        "channel": {
+            "channelId": 1200,
+            "title": "Channel 1",
+            "description": "Description for Channel 1",
+            "statistics": {
+                "subscriberCount": 840483,
+                "viewCount": 9091996,
+                "videoCount": 761
+            },
+            "thumbnails": {
+                "default": "/images/default.jpg",
+                "medium": "/images/default.jpg",
+                "high": "/images/default.jpg"
+            },
+            "url": "/channel/1"
+        },
+        "title": "Obiettivo Fotografia: Scatti di Emozione",
+        "description": "Benvenuti nel corso 'Obiettivo Fotografia: Scatti di Emozioni', un viaggio emozionante nel mondo della fotografia, pensato per chi desidera trasformare la passione in immagini indimenticabili. In sei lezioni, esploreremo insieme le tecniche e i segreti per catturare la bellezza che ci circonda, imparando a esprimere la nostra creatività attraverso l'obiettivo.",
+        "videoId": 1200,
+        "viewCount": 834762,
+        "likeCount": 15432,
+        "category": "seo",
+        "complete": 60,
+        "tag": "nuovo",
+        "corso": [
+            {
+                "url": "/video-stream/1",
+                "title": "Lezione 1",
+                "description": "Lezione 1 Introduzione alla Fotografia - La Tua Prima Immagine\nScopriamo insieme i fondamenti della fotografia: la macchina fotografica, l'obiettivo e i primi passi per iniziare a scattare.",
+                "videoId": 1,
+                "status": "visto",
+                "image": "/images/1.jpg"
+            },
+            {
+                "url": "/video-stream/2",
+                "title": "Lezione 2",
+                "description": " Lezione 2  La Luce e i Colori - Dipingere con la Fotocamera. \nImpariamo a controllare la luce e a giocare con i colori per dare vita alle nostre immagini, esplorando le diverse tecniche di illuminazione.",
+                "videoId": 2,
+                "status": "sbloccato",
+                "image": "/images/2.jpg"
+            },
+            {
+                "url": "/video-stream/3",
+                "title": "Lezione 3",
+                "description": "Lezione 3 Composizione e Inquadratura - L'Arte di Raccontare Storie\n Scopriamo come creare immagini equilibrate e coinvolgenti, utilizzando le regole della composizione e dell'inquadratura per raccontare storie uniche.",
+                "videoId": 3,
+                "status": "bloccato",
+                "image": "/images/3.jpg"
+            },
+            {
+                "url": "/video-stream/4",
+                "title": "Lezione 4",
+                "description": "Lezione 4 Ritratto e Paesaggio - Catturare l'Anima e la Bellezza\n Esploriamo le tecniche per realizzare ritratti emozionanti e paesaggi mozzafiato, imparando a cogliere l'essenza dei soggetti e dei luoghi.",
+                "videoId": 4,
+                "status": "bloccato",
+                "image": "/images/4.jpg"
+            },
+            {
+                "url": "/video-stream/5",
+                "title": "Lezione 5",
+                "description": "Lezione 5: Fotografia in Movimento - Fermare l'Attimo Fuggente\n Impariamo a fotografare soggetti in movimento, congelando l'azione e creando immagini dinamiche e coinvolgenti.",
+                "videoId": 5,
+                "status": "bloccato",
+                "image": "/images/5.jpg"
+            },
+            {
+                "url": "/video-stream/6",
+                "title": "Lezione 6",
+                "description": "Lezione 6  Post-produzione e Stampa - Dare Vita alle Tue Immagini\n Scopriamo come utilizzare i software di editing per migliorare le nostre foto e prepariamo i file per la stampa, trasformando i nostri scatti in opere d'arte.",
+                "videoId": 6,
+                "status": "bloccato",
+                "image": "/images/6.jpg"
+            }
+        ]
+    },
+
+    {
+        "courseId": "corso2",
+        "url": "/video-stream/2000",
+        "image": "/images/3.jpg",
+        "channel": {
+            "channelId": 2,
+            "title": "Channel 2",
+            "description": "Description for Channel 2",
+            "statistics": {
+                "subscriberCount": 580122,
+                "viewCount": 6028347,
+                "videoCount": 542
+            },
+            "thumbnails": {
+                "default": "/images/default.jpg",
+                "medium": "/images/default.jpg",
+                "high": "/images/default.jpg"
+            },
+            "url": "/channel/2"
+        },
+        "title": "Parole in Volo: Libera la Tua Creatività",
+        "description": "Benvenuti nel corso 'Parole in Volo: Libera la Tua Creatività', un viaggio emozionante nel mondo della scrittura creativa, pensato per chi desidera esprimere se stesso attraverso la scrittura e dare vita alle proprie storie. In tre lezioni, esploreremo insieme le tecniche e i segreti per liberare la nostra immaginazione e creare testi coinvolgenti e originali.",
+        "videoId": 4,
+        "viewCount": 423000,
+        "likeCount": 10345,
+        "complete": 60,
+        "category": "social",
+        "tag": "nuovo",
+        "corso": [
+            {
+                "url": "/video-stream/7",
+                "title": "Lezione 1",
+                "description": "Lezione 1 Introduzione alla Scrittura Creativa - Trova la tua voce\nScopriamo insieme i fondamenti della scrittura creativa, imparando a trovare la nostra voce unica e a sviluppare il nostro stile personale.",
+                "videoId": 7,
+                "status": true,
+                "image": "/images/1.jpg"
+            },
+            {
+                "url": "/video-stream/8",
+                "title": "Lezione 2",
+                "description": "Lezione 2 Racconti e Poesie - Dare forma alle emozioni\n Esploriamo le dioverse forme di scrittura creativa, imparando a raccontare storie avvincenti e a scrivere poesie emozionanti.",
+                "videoId": 8,
+                "status": true,
+                "image": "/images/1.jpg"
+            },
+            {
+                "url": "/video-stream/9",
+                "title": "Lezione 3",
+                "description": "Lezione 3 Il potere delle parole - Scrivere per emozionare",
+                "videoId": 9,
+                "status": true,
+                "image": "/images/1.jpg"
+            }
+        ]
+    },
+
+    {
+        "courseId": "corso3",
+        "url": "/video-stream/3",
+        "image": "/images/3.jpg",
+        "channel": {
+            "channelId": 3,
+            "title": "Channel 3",
+            "description": "Description for Channel 3",
+            "statistics": {
+                "subscriberCount": 620910,
+                "viewCount": 7053245,
+                "videoCount": 623
+            },
+            "thumbnails": {
+                "default": "/images/default.jpg",
+                "medium": "/images/default.jpg",
+                "high": "/images/default.jpg"
+            },
+            "url": "/channel/3"
+        },
+        "title": "Python per Tutti: Impara a Programmare",
+        "description": "Benvenuti nel corso 'Python per tutti: Impara a programmare', un'introduzione divertente e interattiva al mondo della programmazione con Python, pensato per chi non ha mai scritto una riga di codice. In tre lezioni, esploreremo insieme i convcetti fondamentali di Python, imparando a scrivere programmi semplici ma efficaci e a dare vita alle nostre idee.",
+        "videoId": 3,
+        "viewCount": 932134,
+        "likeCount": 19876,
+        "complete": 60,
+        "category": "web",
+        "tag": "nuovo",
+        "corso": [
+            {
+                "url": "/video-stream/10",
+                "title": "Lezione 1",
+                "description": "Lezione 1 Introduzione a Python - Primi passi nel mondo del codice \nScopriamo insieme cos'è Python, come installarlo e come scrivere il nostro primo programma 'Hello world'.",
+                "videoId": 10,
+                "status": true,
+                "image": "/images/1.jpg"
+            },
+            {
+                "url": "/video-stream/11",
+                "title": "Lezione 2",
+                "description": "Lezione 2 Variabili e Operatori - Il linguaggio dei computer \nImpariamo a utilizzare variabilie  operatori per manipolare dati e creare programmi interattivi.",
+                "videoId": 11,
+                "status": true,
+                "image": "/images/1.jpg"
+            },
+            {
+                "url": "/video-stream/12",
+                "title": "Lezione 3",
+                "description": "Lezione 3 Condizioni e Cicli - Prendere decisioni e ripetere azioni \nSCopriamo come utilizzare condizioni e cicli per controllare il flusso del nostro programma e creare programmi più complessi",
+                "videoId": 12,
+                "status": true,
+                "image": "/images/1.jpg"
+            }
+        ]
+    },
+
+    {
+        "courseId": "corso4",
+        "url": "/video-stream/4",
+        "image": "/images/4.jpg",
+        "channel": {
+            "channelId": 4,
+            "title": "Channel 4",
+            "description": "Description for Channel 4",
+            "statistics": {
+                "subscriberCount": 760342,
+                "viewCount": 8536712,
+                "videoCount": 743
+            },
+            "thumbnails": {
+                "default": "/images/default.jpg",
+                "medium": "/images/default.jpg",
+                "high": "/images/default.jpg"
+            },
+            "url": "/channel/4"
+        },
+        "title": "Yoga per principianti: respira e rilassati",
+        "description": "Benvenuti nel corso 'Yoga per principianti: respira e rilassati', un'introduzione dolce e graduale al mondo dello yoga",
+        "videoId": 4,
+        "viewCount": 567894,
+        "likeCount": 12345,
+        "complete": 60,
+        "category": "Digital Marketing,SEO",
+        "tag": "nuovo",
+        "corso": [
+            {
+                "url": "/video-stream/13",
+                "title": "Lezione 1",
+                "description": "Lezione 1 Introduzione allo yoga - Il respiro e il movimento \nScopriamo insieme i fondamenti dello yoga, imparando a respirare correttamente e a eseguire le prime posizioni base (asana) in modo sicuro e consapevole.",
+                "videoId": 13,
+                "status": true,
+                "image": "/images/1.jpg"
+            },
+            {
+                "url": "/video-stream/14",
+                "title": "Lezione 2",
+                "description": "Lezione 2 Posizioni base e sequenze - esplorare il corpo \nImpariamo a eseguire una sequenza di posizioni base (asana) per migliorare la flessibilità, la forza e l'equilibrio.",
+                "videoId": 14,
+                "status": true,
+                "image": "/images/1.jpg"
+            },
+            {
+                "url": "/video-stream/15",
+                "title": "Lezione 3",
+                "description": "Lezione 3 Rilassamento e meditazione - Calmare la mente \nScopriamo le tecniche di rilassamento e meditazione per calmare la mente, ridurre lo stess e ritrovare la pace interiore.",
+                "videoId": 15,
+                "status": true,
+                "image": "/images/1.jpg"
+            }
+        ]
+    },
+
+    {
+        "courseId": "corso5",
+        "url": "/video-stream/5",
+        "image": "/images/5.jpg",
+        "channel": {
+            "channelId": 5,
+            "title": "Channel 5",
+            "description": "Description for Channel 5",
+            "statistics": {
+                "subscriberCount": 910243,
+                "viewCount": 10234567,
+                "videoCount": 823
+            },
+            "thumbnails": {
+                "default": "/images/default.jpg",
+                "medium": "/images/default.jpg",
+                "high": "/images/default.jpg"
+            },
+            "url": "/channel/5"
+        },
+        "title": "Cucina vegana: sapori e creatività senza limiti",
+        "description": "Benvenuti nel corso 'Cucina vegana: sapori e creatività senza limiti', un'esperienza culinaria divertente e gustosa, pensata per chi desidera scoprire la ricchezza e la varietà della cucina vegana. In tre lezioni, esploreremo insieme ingredienti, tecniche e ricette per creare piatti deliziosi e nutrienti, dimostrando che la cucina vegana è tutt'altro che noiosa.",
+        "videoId": 5,
+        "viewCount": 782134,
+        "likeCount": 16789,
+        "complete": 60,
+        "category": "Corsi in evidenza,SEO",
+        "tag": "nuovo",
+        "corso": [
+            {
+                "url": "/video-stream/16",
+                "title": "Lezione 1",
+                "description": "Lezione 1 Introduzione alla cucina vegana - Ingredienti e sostituzioni \nScopriamo insieme gli ingredienti base della cucina vegana, imparando a sostituire ingredienti di origine animale con alternative vegane gustose e nutrienti.",
+                "videoId": 16,
+                "status": true,
+                "image": "/images/1.jpg"
+            },
+            {
+                "url": "/video-stream/17",
+                "title": "Lezione 2",
+                "description": "Lezione 2 Ricette vegane facili e veloci - Piatti semplici per tutti i giorni \nImpariamo a preparare ricette vegane facili e veloci, perfette per i pasti di tutti i giorni, come pasta, risotti, zuppe e insalate.",
+                "videoId": 17,
+                "status": true,
+                "image": "/images/1.jpg"
+            },
+            {
+                "url": "/video-stream/18",
+                "title": "Lezione 3",
+                "description": "Lezione 3 Ricette vegane creative - Esplorare nuovi sapori \nSperimentiamo con ricette vegane e originali, imparando a utilizzare ingredienti insoliti e a creare piatti sorprendenti.",
+                "videoId": 18,
+                "status": true,
+                "image": "/images/1.jpg"
+            }
+        ]
+    },
+
+    {
+        "courseId": "corso6",
+        "url": "/video-stream/6000",
+        "image": "/images/5.jpg",
+        "channel": {
+            "channelId": 6,
+            "title": "Channel 6",
+            "description": "Description for Channel 6",
+            "statistics": {
+                "subscriberCount": 910243,
+                "viewCount": 10234567,
+                "videoCount": 823
+            },
+            "thumbnails": {
+                "default": "/images/default.jpg",
+                "medium": "/images/default.jpg",
+                "high": "/images/default.jpg"
+            },
+            "url": "/channel/7"
+        },
+        "title": "Marketing 101: dai un Boost alle tue idee!",
+        "description": "Benvenuti nel corso 'Marketing 101: dai un Boost alle tue idee!', un'introduzione divertente e pratica al mondo del marketing, pensato per chi desidera imparare a promuovere le proprie idee e progetti in modo efficace. In quattro lezioni, esploreremo insieme i concetti fondamentali del marketing, imparando a creare strategie vincenti e a comunicare con il nostro pubblico.",
+        "videoId": 6,
+        "viewCount": 782134,
+        "likeCount": 16789,
+        "complete": 60,
+        "category": "Corsi in evidenza,SEO",
+        "tag": "nuovo",
+        "corso": [
+            {
+                "url": "/video-stream/19",
+                "title": "Lezione 1",
+                "description": "Lezione 1 Cos'è il marketing? - Scopri il tuo superpotere \nScopriamo insieme cos'è il marketing, a cosa serve e come può aiutarti a raggiungere i tuoi obiettivi.",
+                "videoId": 19,
+                "status": true,
+                "image": "/images/1.jpg"
+            },
+            {
+                "url": "/video-stream/20",
+                "title": "Lezione 2",
+                "description": "Lezione 2 Il tuo pubblico ideale - Conosci i tuoi fan \nImpariamo a identificare il nostro pubblico ideale, a capire cosa desidera e come comunicare con lui.",
+                "videoId": 20,
+                "status": true,
+                "image": "/images/1.jpg"
+            },
+            {
+                "url": "/video-stream/21",
+                "title": "Lezione 3",
+                "description": "Lezione 3 Crea il tuo messaggio - Parla la loro lingua \nSVCopriamo come creare messaggi efficaci e coinvolgenti, adattati al nostro pubblico e ai diversi canali di comunicazione",
+                "videoId": 21,
+                "status": true,
+                "image": "/images/1.jpg"
+            },
+            {
+                "url": "/video-stream/22",
+                "title": "Lezione 4",
+                "description": "Lezione 4 Promuovi le tue idee - Fai sentire la tua voce \nImpariamo a utilizzare i principali strumenti di marketing, come i social media, per promuovere le nostre idee e raggiungere il nostro pubblico.",
+                "videoId": 22,
+                "status": "sbloccato",
+                "image": "/images/1.jpg"
+            }
+        ]
+    },
+
+    {
+        "courseId": "corso7",
+        "url": "/video-stream/7000",
+        "image": "/images/3.jpg",
+        "channel": {
+          "channelId": 1200,
+          "title": "Channel 1",
+          "description": "Description for Channel 1",
+          "statistics": {
+            "subscriberCount": 840483,
+            "viewCount": 9091996,
+            "videoCount": 762
+          },
+          "thumbnails": {
+            "default": "/images/default.jpg",
+            "medium": "/images/default.jpg",
+            "high": "/images/default.jpg"
+          },
+          "url": "/channel/1"
+        },
+        "title": "Nuovo Corso: Tecniche Avanzate di Fotografia",
+        "description": "Un corso avanzato per migliorare le tue abilità fotografiche.",
+        "videoId": 7,
+        "viewCount": 123456,
+        "likeCount": 7890,
+        "category": "fotografia",
+        "complete": 0,
+        "tag": "nuovo",
+        "corso": [
+          {
+            "url": "/video-stream/2",
+            "title": "Lezione 1",
+            "description": "Introduzione alle tecniche avanzate.",
+            "videoId": 1,
+            "status": "sbloccato",
+            "image": "/images/1.jpg"
+          },
+          {
+            "url": "/video-stream/3",
+            "title": "Lezione 2",
+            "description": "Fotografia notturna.",
+            "videoId": 2,
+            "status": "bloccato",
+            "image": "/images/1.jpg"
+          }
+        ]
+      }
+
+]
